@@ -1,11 +1,11 @@
 # Change
 
-[WINSXS 2012 and above](winsxs_cleanup.md)
+[WINSXS 2012 and above](Changes/winsxs_cleanup.md)
 
-[WINSXS 2008](winsxs_comp.md)
+[WINSXS 2008](Changes/winsxs_comp.md)
 
-[To unalocate the allocated space in C Drive](extend_disk.md)
+[To unalocate the allocated space in C Drive](Changes/extend_disk.md)
 
-[to expand the drive](expand_disk.md)
+[to expand the drive](Changes/expand_disk.md)
 
-[Vm tools](VM_Tools.md)
+[Vm tools](Changes/VM_Tools.md)
