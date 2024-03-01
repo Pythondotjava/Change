@@ -2,7 +2,7 @@
 
 [## WINSXS 2012 and above](winsxs_cleanup.md)
 
-[## WInsxs 2008](winsxs_comp.md)
+##[WInsxs 2008](winsxs_comp.md)
 
 [## To unalocate the allocated space in C Drive](extend_disk.md)
 
